@@ -14,7 +14,7 @@ published: true
 <h1>Dr. Homero Reyes de la Cruz</h1>
 delacruz@umich.mx
 
-[/et_pb_blurb][et_pb_blurb admin_label="Plan de Estudios" title="Plan de Estudios de la MCBE" url="http://148.216.54.71/index.php/2015/11/03/218/" url_new_window="off" use_icon="off" icon_color="#7EBEC5" use_circle="off" circle_color="#7EBEC5" use_circle_border="off" circle_border_color="#7EBEC5" icon_placement="top" animation="top" background_layout="light" text_orientation="left"] [/et_pb_blurb][/et_pb_column][et_pb_column type="2_3"][et_pb_text admin_label="Presentación" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
+[/et_pb_blurb][/et_pb_column][et_pb_column type="2_3"][et_pb_text admin_label="Presentación" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <div class="span6 span12-tablet">
 
 El Instituto de Investigaciones Químico Biológicas se estableció por acuerdo del Consejo Universitario el 27 de mayo de 1976. La fundación de ésta dependencia surgió de la necesidad de llevar a cabo el proceso de descentralización de la investigación científica iniciada por el Gobierno federal en centros universitarios estratégicos del territorio nacional.
