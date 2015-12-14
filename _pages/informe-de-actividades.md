@@ -14,7 +14,8 @@ published: true
 [/et_pb_slide] [/et_pb_fullwidth_slider][et_pb_fullwidth_menu admin_label="Fullwidth Menu" menu_id="7" background_color="#ffffff" background_layout="light" text_orientation="left" submenu_direction="downwards"] [/et_pb_fullwidth_menu][/et_pb_section][et_pb_section admin_label="section" fullwidth="off" inner_shadow="off" parallax="off" transparent_background="off" allow_player_pause="off" parallax_method="off"][et_pb_row admin_label="row"][et_pb_column type="1_3"][et_pb_blurb admin_label="Distinciones y premios" url_new_window="off" use_icon="off" icon_color="#7EBEC5" use_circle="off" circle_color="#7EBEC5" use_circle_border="off" circle_border_color="#7EBEC5" icon_placement="top" animation="top" background_layout="light" text_orientation="left" title="Distinciones y premios" url="http://148.216.54.71/index.php/2015/11/23/distinciones-y-premios/"] [/et_pb_blurb][/et_pb_column][et_pb_column type="2_3"][et_pb_text admin_label="Información general" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <div class="span6 span12-tablet">
 <h2>INFORME DE ACTIVIDADES 2015</h2>
-<h3>Información general 2015</h3>
+Información general 2015
+
 </div>
 
 <hr class="hidden-desktop" />
