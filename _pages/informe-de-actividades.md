@@ -43,7 +43,7 @@ Facultades relacionadas con el IIQB</li>
 	<li style="text-align: left;"><a href="http://cecti.michoacan.gob.mx/">CECTI</a></li>
 </ul>
 [/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text admin_label="Enlaces de Interés" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid" text_text_color="#ffffff"]
-<h2 class="menu-sidenav">Enlaces de Interés</h2>
+<h2 class="menu-sidenav"><span style="color: #ffffff;">Enlaces de Interés</span></h2>
 <ul>
 	<li><a href="http://www.umich.mx/">UMSNH</a></li>
 	<li><a href="http://www.siia.umich.mx/">SIIA</a></li>
