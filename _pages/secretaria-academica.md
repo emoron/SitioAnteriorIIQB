@@ -38,7 +38,7 @@ Facultades relacionadas con el IIQB</li>
 </div>
 </div>
 [/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section admin_label="section" fullwidth="off" background_color="#283139" inner_shadow="off" parallax="off"][et_pb_row admin_label="row"][et_pb_column type="1_2"][et_pb_text admin_label="Enlaces del Sitio" background_layout="dark" text_orientation="center" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
-<h2><strong><span style="color: #ffffff;">Enlaces del Sitio</span></strong></h2>
+<h2><span style="color: #ffffff;">Enlaces del Sitio</span></h2>
 [/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text admin_label="Enlaces de Interés" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2 class="menu-sidenav"><span style="color: #ffffff;">Enlaces de Interés</span></h2>
 <ul>
