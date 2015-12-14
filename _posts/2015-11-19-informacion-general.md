@@ -15,7 +15,6 @@ published: true
 <p style="text-align: justify;"><strong> </strong></p>
 <p style="text-align: justify;"><strong>INFRAESTRUCTURA</strong></p>
 <p style="text-align: justify;">El programa de la MCBE cuenta con una infraestructura que incluye 14 laboratorios de Investigación, aéreas de equipo común (centrifugas, ultracongeladores, campanas de flujo laminar, cromatografos, microscopios), cuenta con un bioterio, 3 Aulas de clases, un auditorio, biblioteca y área de computo.</p>
-<p style="text-align: justify;"></p>
 
 <h3>OBJETIVO GENERAL</h3>
 La MCBE tiene como objetivo general, formar recursos humanos de alto nivel académico, capaces de participar en programas académicos y de investigación científica y tecnológica en el campo de la biología experimental.
