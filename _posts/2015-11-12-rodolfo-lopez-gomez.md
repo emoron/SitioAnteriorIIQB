@@ -9,6 +9,7 @@ permalink: >
   http://148.216.54.71/2015/11/rodolfo-lopez-gomez/
 published: true
 ---
+[et_pb_section admin_label="section"][et_pb_row admin_label="row"][et_pb_column type="4_4"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h3>D. C. Rodolfo López Gómez</h3>
 <div class="contentpane">
 <div class="contentdescription">
@@ -31,3 +32,4 @@ Luis Figueroa-Yáñez, Julia Cano-Sosa, Enrique Castaño<sub>,</sub> Ana-Ly Arro
 <strong><a href="http://148.216.54.71/wp-content/uploads/2015/11/DC_Rodolfo_Lopez.pdf">Curriculum</a></strong>
 
 </div>
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="Row"][et_pb_column type="4_4"][/et_pb_column][/et_pb_row][/et_pb_section]
