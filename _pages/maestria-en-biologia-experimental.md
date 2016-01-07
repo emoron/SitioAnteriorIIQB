@@ -70,49 +70,6 @@ The Calendar is a comprehensive guide to all programs, courses, services, and po
 </ul>
 </div>
 </div>
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="row"][et_pb_column type="1_3"][et_pb_image admin_label="Image" src="http://148.216.54.71/wp-content/uploads/2015/10/doc20151002112932-e1444062937853.png" show_in_lightbox="off" url_new_window="off" animation="left" sticky="off"] [/et_pb_image][/et_pb_column][et_pb_column type="2_3"][et_pb_text admin_label="Flexible Learning" background_layout="light" text_orientation="right"]
-<div class="span6 span12-tablet">
-<div class="row-fluid">
-<div class="span8">
-<h1>Flexible Learning</h1>
-Better learning, better access and a better student experience: there are plenty of benefits to UBC’s increasingly flexible approach to teaching and learning.
-<p class="cta no-margin-bottom"><a href="http://flexible.learning.ubc.ca/">Learn more about Flexible Learning at UBC &gt;</a></p>
-
-</div>
-</div>
-<h3></h3>
-</div>
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="row"][et_pb_column type="1_3"][et_pb_image admin_label="Image" src="http://148.216.54.71/wp-content/uploads/2015/10/doc20151002112512-e1444135277542.png" show_in_lightbox="off" url_new_window="off" animation="left" sticky="off"] [/et_pb_image][/et_pb_column][et_pb_column type="2_3"][et_pb_text admin_label="LGAC" background_layout="light" text_orientation="left" text_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid"]
-<div class="margin-small">
-<ul>
-	<li>
-<div class="span6 span12-tablet">
-<h1><strong>LÍNEAS DE INVESTIGACIÓN DE LOS CUERPOS ACADÉMICOS</strong></h1>
-<strong> </strong><strong>CA Bioquímica</strong> - Estudio de los mecanismos bioquímicos y farmacológicos involucrados en la diabetes y la hipertensión.
-
-<strong>CA Bioquímica y Biología Molecular de Plantas</strong> - Análisis molecular de los mecanismos de defensa vegetal. - Bioquímica de la interacción entre defensa y desarrollo. <strong> </strong>
-
-<strong>CA Biotecnología</strong> - Interacciones fisiológicas, bioquímicas y moleculares de los organismos con factores ambientales y el estudio de organismos para el desarrollo tecnológico. <strong> </strong>
-
-<strong>CA Biotecnología de Plantas</strong> - Propagación, conservación y mejoramiento genético de plantas. - Marcadores Moleculares. - Genómica funcional de maduración de frutos. - Metabolitos vegetales biocidas. <strong> </strong>
-
-<strong>CA Ecología Microbiana</strong> - Estudio de las interacciones fisiológicas, bioquímicas y moleculares de los microorganismos con factores ambientales. - Respuestas de los microorganismos a factores bióticos y abióticos.
-
-</div></li>
-</ul>
-</div>
-[/et_pb_text][et_pb_text admin_label="Continuing Studies" background_layout="light" text_orientation="left"]
-<div class="row-fluid">
-<div class="span8">
-<h3>Continuing Studies</h3>
-UBC Continuing Studies serves the adult education needs of lifelong learners by providing innovative educational programs at UBC’s Point Grey campus, in downtown Vancouver at UBC Robson Square, and through online learning.
-<p class="cta no-margin-bottom"><a href="http://cstudies.ubc.ca/">Learn more about UBC Continuing Studies &gt;</a></p>
-
-</div>
-</div>
-[/et_pb_text][et_pb_text admin_label="Núcleo Académico Básico" background_layout="light" text_orientation="left"]
-<h2 align="center"><strong>NUCLEO ACADEMICO BASICO</strong></h2>
-<p align="center"><strong> </strong></p>
-Este Posgrado está conformado por 22 investigadores del Núcleo Académico Básico (NAB), 12 profesores asociados y técnicos y aproximadamente 45 estudiantes de maestría. El 90% de los profesores del NAB pertenecen al Sistema Nacional de Investigadores, contando con 14 profesores  SNI I y 6 SNI II. Además de que el 100% poseen Perfil PROMEP. <strong><a href="http://148.216.54.71/index.php/2015/11/12/carlos-cervantes-vega/">D. C. Carlos Cervantes</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/335/">D. C. Daniel Godínez</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/eduardo-valencia-cantero/">D.C. Eduardo Valencia</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/elda-beltran-pena/">D.C. Elda Beltran</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/ernesto-garcia-pineda/">D.C. Ernesto García</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/francisco-alfredo-saavedra-molina/">D. C. Francisco Saavedra</a></strong> <strong><a href="http://www.iiqb.umich.mx/MCBE/index.php/nucleo-academico/d-c-gustavo-santoyo">D. C. Gustavo Santoyo</a></strong> <strong>D.C. Héctor Urquiza</strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/351/">D. C. Homero Reyes</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/09/jesus-campos-garcia/">D. C. Jesús Campos</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/jose-lopez-bucio/">D. C. José López</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/lourdes-iveth-macias-rodriguez/">D. C. Lourdes Macías</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/mauro-martinez-pacheco/">D.C. Mauro M. Martinez</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/martha-isela-ramirez-diaz/">D. C. Martha Ramírez</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/rafael-salgado-garciglia/">D. C. Rafael Salgado</a></strong> <strong><a href="http://148.216.54.71/index.php/2015/11/12/rodolfo-lopez-gomez/">D. C. Rodolfo López</a></strong> <strong>D. C. Salvador Manzo</strong> <strong><a href="http://148.216.54.71/index.php/2015/11/05/256/">D.C. Victor Meza Carmen</a></strong> [/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section admin_label="section" fullwidth="off" background_color="#283139" inner_shadow="off" parallax="off"][et_pb_row admin_label="row"][et_pb_column type="4_4"][et_pb_text admin_label="Versatile Layout Options" background_layout="dark" text_orientation="center"]
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="row"][et_pb_column type="1_4"][et_pb_image admin_label="Image" src="http://148.216.54.71/wp-content/uploads/2015/12/Aerials-Main-Mall_20130913__Hover-Collective-18.jpg" show_in_lightbox="off" url_new_window="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" /][/et_pb_column][et_pb_column type="1_4"][et_pb_cta admin_label="Call To Action" url_new_window="off" use_background_color="on" background_color="#7EBEC5" background_layout="dark" text_orientation="left" header_font_size="26" body_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_text_size="20" button_border_width="2" button_border_radius="3" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_border_radius_hover="3" button_letter_spacing_hover="0"] [/et_pb_cta][/et_pb_column][et_pb_column type="1_4"][et_pb_signup admin_label="Email Optin" provider="mailchimp" mailchimp_list="none" aweber_list="none" use_background_color="on" background_color="#7EBEC5" background_layout="dark" text_orientation="left" use_focus_border_color="off" header_font_size="26" body_font_size="14" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_text_size="20" button_border_width="2" button_border_radius="3" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_border_radius_hover="3" button_letter_spacing_hover="0"] [/et_pb_signup][/et_pb_column][et_pb_column type="1_4"][et_pb_image admin_label="Image" src="http://148.216.54.71/wp-content/uploads/2015/10/doc201510021120411-e1444063970685.png" show_in_lightbox="off" url_new_window="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" /][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fullwidth="off" specialty="off" admin_label="Section"][et_pb_row admin_label="Row"][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section admin_label="section" fullwidth="off" background_color="#283139" inner_shadow="off" parallax="off"][et_pb_row admin_label="row"][et_pb_column type="4_4"][et_pb_text admin_label="Versatile Layout Options" background_layout="dark" text_orientation="center"]
 <h1>Versatile Layout Options</h1>
 Vestibulum lobortis. Donec at euismod nibh, eu bibendum quam. Nullam non gravida purus dolor ipsum amet sit. [/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="row"][et_pb_column type="1_3"][et_pb_blurb admin_label="Blurb" title="Lorem Ipsum Dolor" url_new_window="off" icon_placement="left" font_icon="R" use_icon="on" use_circle="off" use_circle_border="off" icon_color="#ec6d5f" circle_color="#2caaca" circle_border_color="#2caaca" animation="bottom" background_layout="dark" text_orientation="center"] <span style="color: #bbbbbb;">Donec at euismod nibh, eu bibendum. [/et_pb_blurb][/et_pb_column][et_pb_column type="1_3"][et_pb_image admin_label="Image" src="http://elegantthemesimages.com/images/premade/d2-placeholder-320px.jpg" url_new_window="off" animation="bottom" show_in_lightbox="off"] [/et_pb_image][/et_pb_column][et_pb_column type="1_3"][et_pb_image admin_label="Image" src="http://elegantthemesimages.com/images/premade/d2-placeholder-320px.jpg" url_new_window="off" animation="bottom" show_in_lightbox="off"] [/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section]</span>
