@@ -8,7 +8,7 @@ post_date: 2016-01-14 11:04:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://148.216.54.71/maestria-en-ciencias-biologicas-2/
+  http://148.216.54.71/maestria-en-ciencias-biologicas-experimentales/
 published: true
 ---
 [et_pb_section admin_label="section" fullwidth="on"][et_pb_fullwidth_slider admin_label="Bienvenidos" show_arrows="on" show_pagination="on" auto="off" parallax="on" parallax_method="off" auto_ignore_hover="off" remove_inner_shadow="off" background_position="default" background_size="default" hide_content_on_mobile="off" hide_cta_on_mobile="off" show_image_video_mobile="off" header_font_size="72" body_font_size="14" custom_button="off" button_text_size="20" button_border_width="2" button_border_radius="3" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_border_radius_hover="3" button_letter_spacing_hover="0"] [et_pb_slide heading="Maestría en Ciencias Biológicas Experimentales" background_color="#ffffff" alignment="center" background_layout="dark" video_bg_width="1920" video_bg_height="638" background_image="http://148.216.54.71/wp-content/uploads/2015/10/green-landscape-desktop-new-wallpapers-in-high-resolution-free-nature-hd-pictures.jpg" allow_player_pause="off" background_position="default" background_size="default" admin_title="Maestría en Ciencias Biológicas Experimentales" header_font_select="default" body_font_select="default" custom_button="off" button_font_select="default" button_use_icon="default" button_icon_placement="right" button_on_hover="on"]
