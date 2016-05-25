@@ -1,8 +1,8 @@
 ---
 ID: 85
 post_title: >
-  Instituto de Investigaciones QuÃ­mico
-  BiolÃ³gicas
+  Instituto de Investigaciones Químico
+  Biológicas
 author: admin
 post_date: 2015-10-05 10:55:25
 post_excerpt: ""
